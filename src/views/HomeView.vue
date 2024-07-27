@@ -76,7 +76,7 @@ watch(isSuccess, (newState, oldState) => {
       </div>
     </div>
     <div
-      class="flex flex-row lg:flex-col xl:flex-col flex-wrap items-center justify-center p-4 bg-white dark:bg-white/5 shadow-sm lg:w-4/5 xl:w-4/5 lg:h-4/5 xl:h-4/5 lg:max-h-[600px] md:w-full rounded-md"
+      class="flex flex-row lg:flex-col xl:flex-col flex-wrap items-center justify-center p-4 bg-white dark:bg-white/5 shadow-sm lg:w-4/5 xl:w-4/5 lg:h-4/5 xl:h-4/5 lg:max-h-[600px] md:w-full rounded-md overflow-y-auto"
     >
       <!-- Tarjeta -->
       <div
