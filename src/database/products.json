@@ -1,0 +1,66 @@
+[
+  {
+    "id": "producto_1",
+    "name": "Producto 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 1,
+    "color": "#965AD6",
+    "votes": 0
+  },
+  {
+    "id": "producto_2",
+    "name": "Producto 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 2,
+    "color": "#4BA6F9",
+    "votes": 0
+  },
+  {
+    "id": "producto_3",
+    "name": "Producto 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 3,
+    "color": "#E55578",
+    "votes": 0
+  },
+  {
+    "id": "producto_4",
+    "name": "Producto 4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 1,
+    "color": "#965AD6",
+    "votes": 0
+  },
+  {
+    "id": "producto_5",
+    "name": "Producto 5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 1,
+    "color": "#965AD6",
+    "votes": 0
+  },
+  {
+    "id": "producto_6",
+    "name": "Producto 6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 2,
+    "color": "#4BA6F9",
+    "votes": 0
+  },
+  {
+    "id": "producto_7",
+    "name": "Producto 7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 3,
+    "color": "#E55578",
+    "votes": 0
+  },
+  {
+    "id": "producto_8",
+    "name": "Producto 8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel cursus lectus. Morbi vestibulum leo magna, ut blandit neque.",
+    "type": 1,
+    "color": "#965AD6",
+    "votes": 0
+  }
+]
